@@ -49,7 +49,7 @@ Clone the repository:
 
 Bash
 
-git clone [https://github.com/anuj566/food-scanner-android.git](https://github.com/anuj566/food-scanner-android.git)
+git clone [https://github.com/anuj566/food-scanner-android.git](https://github.com/anuj566/Foodscan.git)
 Open in Android Studio: File -> Open -> Select the project folder.
 
 🔑 API Configuration (Important)
